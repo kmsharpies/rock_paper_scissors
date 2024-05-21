@@ -13,8 +13,8 @@ public class App {
 
         player.makeMove();
         computer.makeMove();
-
-        game.whoWins();
+//
+//        game.whoWins();
 
     }
 
